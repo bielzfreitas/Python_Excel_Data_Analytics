@@ -49,11 +49,46 @@ https://www.alura.com.br/artigos/chatgpt?_gl=1*6wu3ej*_ga*MTUyMzg4NTg5My4xNzEwMj
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
+Aula 02: Gráficos e Análises com Google Colab e Python Pandas
 
+Nesta aula, vamos criar gráficos e tabelas no Google Sheets e, começar a manipulação de dados com Python Pandas pelo Google Colab!
 
+Nesta aula, você vai:
+- Gerar de tabelas e cálculos de estatísticas;
+- Criar gráficos no Google Sheets;
+- Conhecer o Google Colab;
+- Iniciar a manipulação de dados com Python Pandas.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
+# Links importantes para você acompanhar a aula
+- O que é Google Colab?
+https://www.alura.com.br/artigos/google-colab-o-que-e-e-como-usar?_gl=1*1778wzn*_ga*MTUyMzg4NTg5My4xNzEwMjQ1MTcz*_ga_1EPWSW3PCS*MTcxMTQ2Mjk0My43LjAuMTcxMTQ2Mjk0My4wLjAuMA..*_fplc*S2NOcE8yUWRua0tlNTE4amRZbUVNbEt6ZlE4c05rSzBDSHB6dXVjdVB6M2hjcTdGdGg1Y1FOcUJoQkE4UXglMkJHSUFLSGtnN0dVMkRTSndONXdvbEQ1bmZmbDMwMUN4NzQwcjZ4M2hsNTFwVmRKSiUyRjFJeW1PT3FDTEtCcXc4dyUzRCUzRA..
 
+- Pandas Python: o que é e pra que serve instalar
+https://www.alura.com.br/artigos/pandas-o-que-e-para-que-serve-como-instalar?_gl=1*1s8dv2k*_ga*MTUyMzg4NTg5My4xNzEwMjQ1MTcz*_ga_1EPWSW3PCS*MTcxMTQ2Mjk0My43LjAuMTcxMTQ2Mjk0My4wLjAuMA..*_fplc*S2NOcE8yUWRua0tlNTE4amRZbUVNbEt6ZlE4c05rSzBDSHB6dXVjdVB6M2hjcTdGdGg1Y1FOcUJoQkE4UXglMkJHSUFLSGtnN0dVMkRTSndONXdvbEQ1bmZmbDMwMUN4NzQwcjZ4M2hsNTFwVmRKSiUyRjFJeW1PT3FDTEtCcXc4dyUzRCUzRA..
+
+- Guia de Python
+https://www.alura.com.br/artigos/python?_gl=1*1s8dv2k*_ga*MTUyMzg4NTg5My4xNzEwMjQ1MTcz*_ga_1EPWSW3PCS*MTcxMTQ2Mjk0My43LjAuMTcxMTQ2Mjk0My4wLjAuMA..*_fplc*S2NOcE8yUWRua0tlNTE4amRZbUVNbEt6ZlE4c05rSzBDSHB6dXVjdVB6M2hjcTdGdGg1Y1FOcUJoQkE4UXglMkJHSUFLSGtnN0dVMkRTSndONXdvbEQ1bmZmbDMwMUN4NzQwcjZ4M2hsNTFwVmRKSiUyRjFJeW1PT3FDTEtCcXc4dyUzRCUzRA..
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+# Desafios desta aula
+- Crie um gráfico de barras olhando a faixa etária e o valor da variação;
+- Faça outro gráfico de barras com a faixa etária e a quantidade de empresas que estão em cada faixa etária;
+- Explore os tipos de gráficos com os dados já feitos.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+# Mergulhe mais afundo
+
+- Ecossistema Python
+https://www.alura.com.br/podcast/hipsterstech-ecossistema-python-hipsters-ponto-tech-387-a9175?_gl=1*8knvki*_ga*MTUyMzg4NTg5My4xNzEwMjQ1MTcz*_ga_1EPWSW3PCS*MTcxMTQ2Mjk0My43LjAuMTcxMTQ2Mjk0My4wLjAuMA..*_fplc*S2NOcE8yUWRua0tlNTE4amRZbUVNbEt6ZlE4c05rSzBDSHB6dXVjdVB6M2hjcTdGdGg1Y1FOcUJoQkE4UXglMkJHSUFLSGtnN0dVMkRTSndONXdvbEQ1bmZmbDMwMUN4NzQwcjZ4M2hsNTFwVmRKSiUyRjFJeW1PT3FDTEtCcXc4dyUzRCUzRA..
+
+- IA dentro de empresas
+https://www.alura.com.br/podcast/hipsterstech-openai-sora-google-gemini-pro-1-5-ia-no-picpay-hipsters-fora-de-controle-45-a9238?_gl=1*8knvki*_ga*MTUyMzg4NTg5My4xNzEwMjQ1MTcz*_ga_1EPWSW3PCS*MTcxMTQ2Mjk0My43LjAuMTcxMTQ2Mjk0My4wLjAuMA..*_fplc*S2NOcE8yUWRua0tlNTE4amRZbUVNbEt6ZlE4c05rSzBDSHB6dXVjdVB6M2hjcTdGdGg1Y1FOcUJoQkE4UXglMkJHSUFLSGtnN0dVMkRTSndONXdvbEQ1bmZmbDMwMUN4NzQwcjZ4M2hsNTFwVmRKSiUyRjFJeW1PT3FDTEtCcXc4dyUzRCUzRA..
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
