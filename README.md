@@ -90,6 +90,43 @@ https://www.alura.com.br/podcast/hipsterstech-openai-sora-google-gemini-pro-1-5-
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
+## Aula 03: Manipulação de Dados e Criação de Gráficos com bibliotecas Python
+
+Nesta aula, vamos continuar a manipulação de dados com Pandas no Colab por meio da transformação da planilha de ações. Além disso, vamos começar a construir gráficos com a biblioteca Plotly.
+
+Nesta aula, você vai:
+- Manipular dados com Pandas;
+- Transformar a planilha de ações com funções do Pandas;
+- Construir gráficos com a biblioteca Plotly Express;
+- Usar o Chat GPT durante o código.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Deseja ir além? Experimente este desafio:
+- Pesquise com a documentação da biblioteca Plotly ou GPT como mudar a formatação dos números do gráfico de barras;
+- Fazer o gráfico de pizza no df_análise_segmentos com a mesma biblioteca Potly;
+- Fazer o GroupBy da categoria de idades e gerar o gráfico de barras.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Aprofunde-se nos seguintes tópicos:
+
+- Conheça as bibliotecas do Python
+https://www.alura.com.br/artigos/data-visualization-conhecendo-bibliotecas-python?_gl=1*x9m52z*_ga*MTUyMzg4NTg5My4xNzEwMjQ1MTcz*_ga_1EPWSW3PCS*MTcxMTU0NTMxNC45LjAuMTcxMTU0NTMxNC4wLjAuMA..*_fplc*aUkwU2hJVXRpWWZQRzBMc2dtdnpJSDB6V1Q3bWpYZXpvUFFLdnhWckpXbHYlMkZmUEg5cm8lMkJwclRYZ29vWVVpWWJSbHQlMkJ2VGNHUFY4aFRrMERIM0pDNFpKRk4lMkJBRVkyUE1hcG8xbTVUWEtVQnJlZE1uJTJCcVg1ckxEQ090UXFJZyUzRCUzRA..
+
+- O que é DataFrame
+https://www.alura.com.br/artigos/pandas-o-que-e-para-que-serve-como-instalar?_gl=1*x9m52z*_ga*MTUyMzg4NTg5My4xNzEwMjQ1MTcz*_ga_1EPWSW3PCS*MTcxMTU0NTMxNC45LjAuMTcxMTU0NTMxNC4wLjAuMA..*_fplc*aUkwU2hJVXRpWWZQRzBMc2dtdnpJSDB6V1Q3bWpYZXpvUFFLdnhWckpXbHYlMkZmUEg5cm8lMkJwclRYZ29vWVVpWWJSbHQlMkJ2VGNHUFY4aFRrMERIM0pDNFpKRk4lMkJBRVkyUE1hcG8xbTVUWEtVQnJlZE1uJTJCcVg1ckxEQ090UXFJZyUzRCUzRA..#:~:text=DataFrame,Series%20sob%20um%20mesmo%20index.
+
+- ChatGPT e a análise de dados avançada
+https://www.youtube.com/watch?v=u-JoDQ58Dv0
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
 
 
 
