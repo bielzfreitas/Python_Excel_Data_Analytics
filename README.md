@@ -2,7 +2,7 @@
 Python: Do Excel à Análise de Dados
 
 - Usando o Google Colab
-- Mover arquivo excel dentro do projeto no colab!
+- Mover arquivo excel (acoes_pura) dentro do projeto no colab!
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
