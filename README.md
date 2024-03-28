@@ -1,4 +1,4 @@
-# Python_Excel_Data_Analytics
+# Python_Excel_Data_Analytics (Alura)
 Python: Do Excel à Análise de Dados
 
 - Usando o Google Colab
