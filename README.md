@@ -1,6 +1,9 @@
 # Python_Excel_Data_Analytics
 Python: Do Excel à Análise de Dados
 
+- Usando o Google Colab
+- Mover arquivo excel dentro do projeto no colab!
+
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 # Imersão Dev Alura
@@ -119,6 +122,45 @@ https://www.alura.com.br/artigos/pandas-o-que-e-para-que-serve-como-instalar?_gl
 
 - ChatGPT e a análise de dados avançada
 https://www.youtube.com/watch?v=u-JoDQ58Dv0
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+## Aula 04: Análises Avançadas de Ações e Gráficos de Velas
+
+Nesta aula, vamos construir gráficos de velas com Matplotlib e realizar ações mais avançadas, como gráficos interativos com Plotly.
+
+Nesta aula, você vai:
+- Criar gráficos de velas;
+- Aprender a fazer gráficos interativos com Plotly.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Links importantes para você acompanhar a aula
+
+- One Compiller: https://onecompiler.com/
+- Biblioteca Matplotlib: https://matplotlib.org/
+- Acesse os modelos de gráficos Candlestick: https://drive.google.com/drive/folders/189sYBwsNzf5KVWxcXSap_vrbSSpe5B9x?usp=sharing
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Deseja ir além? Experimente este desafio:
+
+- Pesquisar o que é uma tupla em Python;
+- Buscar a ação da Apple e recriar o gráfico de Candlestick usando a biblioteca MPLFinance.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Aprofunde-se nos seguintes tópicos:
+
+- Gráficos Matplotlib no Python https://www.alura.com.br/artigos/criando-graficos-no-python-com-a-matplotlib?_gl=1*14we8o2*_ga*MTUyMzg4NTg5My4xNzEwMjQ1MTcz*_ga_1EPWSW3PCS*MTcxMTY2MTAyMi4xMi4wLjE3MTE2NjEwMjIuMC4wLjA.*_fplc*TVRQJTJCWnJmTFdOMTc5SWRXbnQ4Wm5RNDZEbmp0bGtJVlhFR2UlMkJtRVF6WmJVS0lQSUluJTJCNDBhbmwzMyUyQmIwcFVHV1M4d09SJTJCdjZtcWhBMHdSUFVjN3JkQWNDTUcySUV5bUFuMjkyYXZKSHJaZFJrd3N5a2RnTlRaenp0SHZyZyUzRCUzRA..
+
+- Guia do usuário Matplotlib https://matplotlib.org/stable/users/index.html
+
+- Conheça as bibliotecas do Python https://www.alura.com.br/artigos/data-visualization-conhecendo-bibliotecas-python?_gl=1*4m8evn*_ga*MTUyMzg4NTg5My4xNzEwMjQ1MTcz*_ga_1EPWSW3PCS*MTcxMTY2MTAyMi4xMi4wLjE3MTE2NjEwMjIuMC4wLjA.*_fplc*TVRQJTJCWnJmTFdOMTc5SWRXbnQ4Wm5RNDZEbmp0bGtJVlhFR2UlMkJtRVF6WmJVS0lQSUluJTJCNDBhbmwzMyUyQmIwcFVHV1M4d09SJTJCdjZtcWhBMHdSUFVjN3JkQWNDTUcySUV5bUFuMjkyYXZKSHJaZFJrd3N5a2RnTlRaenp0SHZyZyUzRCUzRA..
+
+- O que é API https://www.alura.com.br/artigos/api?_gl=1*4m8evn*_ga*MTUyMzg4NTg5My4xNzEwMjQ1MTcz*_ga_1EPWSW3PCS*MTcxMTY2MTAyMi4xMi4wLjE3MTE2NjEwMjIuMC4wLjA.*_fplc*TVRQJTJCWnJmTFdOMTc5SWRXbnQ4Wm5RNDZEbmp0bGtJVlhFR2UlMkJtRVF6WmJVS0lQSUluJTJCNDBhbmwzMyUyQmIwcFVHV1M4d09SJTJCdjZtcWhBMHdSUFVjN3JkQWNDTUcySUV5bUFuMjkyYXZKSHJaZFJrd3N5a2RnTlRaenp0SHZyZyUzRCUzRA..
+
+- Conheça o Yahoo Finanças https://br.financas.yahoo.com/quote/%5EBVSP?p=%5EBVSP
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
