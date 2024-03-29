@@ -164,6 +164,48 @@ Aprofunde-se nos seguintes tópicos:
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
+## Aula 05: Previsão de Séries Temporais de Ações e Carreiras no Mercado de Dados
+
+Nesta última aula, vamos introduzir o Machine Learning com Prophet para além de todas as ferramentas já aprendidas durante a Imersão. Também vamos conhecer sobre as carreiras do mercado de dados.
+
+Nesta aula, você vai:
+- Ter uma introdução ao Machine Learning;
+- Revisar ferramentas aprendidas durante a Imersão;
+- Conhecer mais sobre as carreiras no mercado de dados.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Links importantes para você acompanhar a aula
+
+- Framer https://www.framer.com/
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Aprofunde-se nos seguintes tópicos:
+
+- O que é Machine Learning: https://www.alura.com.br/artigos/machine-learning?_gl=1*wt0e0e*_ga*MTUyMzg4NTg5My4xNzEwMjQ1MTcz*_ga_1EPWSW3PCS*MTcxMTcyOTg0NS4xMy4wLjE3MTE3Mjk4NDUuMC4wLjA.*_fplc*SDdueG0lMkJJMEEwM1VwVnU3b1VIWmF0TE9wUklOMDB6b3ljN0NCdDl3VVdXQ0l1Skk4NXM5YWhLVUZFSHdOMVhtZmZrS3BoMFZwa3lHNVAzbkRWeGxacHg4R3hUanp4WFdoSk9Hdk9tdXZmYkVNSHEzJTJGakcxdmpiaEQlMkZmbldnJTNEJTNE
+
+- Desmistificando termos de Machine Learning: https://www.alura.com.br/artigos/desmistificando-termos-machine-learning?_gl=1*wt0e0e*_ga*MTUyMzg4NTg5My4xNzEwMjQ1MTcz*_ga_1EPWSW3PCS*MTcxMTcyOTg0NS4xMy4wLjE3MTE3Mjk4NDUuMC4wLjA.*_fplc*SDdueG0lMkJJMEEwM1VwVnU3b1VIWmF0TE9wUklOMDB6b3ljN0NCdDl3VVdXQ0l1Skk4NXM5YWhLVUZFSHdOMVhtZmZrS3BoMFZwa3lHNVAzbkRWeGxacHg4R3hUanp4WFdoSk9Hdk9tdXZmYkVNSHEzJTJGakcxdmpiaEQlMkZmbldnJTNEJTNE
+
+- Carreira de Machine Learning em Berlim | Scuba Ponto Dev: https://www.youtube.com/watch?v=dFLrwi4Oz_o
+
+- Tipos de aprendizagem com a IA em Machine Learning: https://www.alura.com.br/artigos/quais-sao-tipos-aprendizagem-ia-inteligencia-artificial?_gl=1*wt0e0e*_ga*MTUyMzg4NTg5My4xNzEwMjQ1MTcz*_ga_1EPWSW3PCS*MTcxMTcyOTg0NS4xMy4wLjE3MTE3Mjk4NDUuMC4wLjA.*_fplc*SDdueG0lMkJJMEEwM1VwVnU3b1VIWmF0TE9wUklOMDB6b3ljN0NCdDl3VVdXQ0l1Skk4NXM5YWhLVUZFSHdOMVhtZmZrS3BoMFZwa3lHNVAzbkRWeGxacHg4R3hUanp4WFdoSk9Hdk9tdXZmYkVNSHEzJTJGakcxdmpiaEQlMkZmbldnJTNEJTNE
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
